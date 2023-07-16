@@ -1,6 +1,2 @@
 # YVR_Airport_Energy_Forecasting
-Project to forecast the energy concumption for YVR Airport looking at different factors and historical data. 
-
-
-
-** Dealing with a rendering issue, please download the jupyter notebook then view in a suitable OS. 
+The objective of this project is to explore the factors that could relate to alcohol consumption in the United States using logistic and Poisson regression models
